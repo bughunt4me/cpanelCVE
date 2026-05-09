@@ -61,4 +61,4 @@ python cpanelcve.py -u https://target.com:2087 --selenium --engine firefox
 # Print manual browser console commands
 python cpanelcve.py -u https://target.com:2087 --browser
 ```
-<p align="center"> <sub>Made with ❤️ by @mahanOF</sub> </p>
+<p align="center"> <sub>Made with ❤️ by @mahanOFp</sub> </p>
